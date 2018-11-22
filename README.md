@@ -5,3 +5,4 @@ Feel free to use/share today’s material as you wish.
 If you have any questions, you may contact us using the LOD4ALL contact page.
 The LOD4ALL contact page as following: http://lod4all.net/contact.html
 This GitHub page is https://lod4all.github.io/jist2018-hands-on/
+
